@@ -1,0 +1,7 @@
+let todoList = [
+    { "idx" : 1, "content" : "저녁 장보기",     "wDate" : "2025-09-01", "isDone" : true  },
+    { "idx" : 2, "content" : "자바 복습하기",   "wDate" : "2025-09-05", "isDone" : true  },
+    { "idx" : 3, "content" : "파이썬 복습하기", "wDate" : "2025-09-10", "isDone" : false },
+    { "idx" : 4, "content" : "DBMS 예습하기",   "wDate" : "2025-09-25", "isDone" : false },
+    { "idx" : 5, "content" : "추석 준비하기",   "wDate" : "2025-09-30", "isDone" : false }
+]
